@@ -28,7 +28,7 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 **[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
 **[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
+9
 ------
 
 ## 图片实例
